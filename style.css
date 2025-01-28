@@ -1,0 +1,247 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #fff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6;
+}
+h1 {
+    background: #0d0128;
+    color:gray ;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 60px;
+}
+header {
+    background-color: #99b9a28b;
+    margin: 0;
+    text-align: center;
+    padding:10px 0;
+    background-blend-mode: overlay;
+}
+about img {
+width:500px;
+height:400px;
+border-radius: 700px;
+margin-top: 30px;
+}about{
+color: #000000;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items :center;
+    border-radius: 18px;
+    font-size: larger;
+    }
+h2 {
+    color: #0d0128 ;
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 50px;
+    padding: 5px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}nav ul li {
+    margin: 20px;
+}
+nav ul li a {
+    color: #0d0128; ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+    section {
+    padding: 20px;
+    margin: 20px 0;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    project {
+    margin: 15px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    button{
+    background-color: #3b3b3e;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+    button:hover {
+    background-color:#0d0128;
+}
+    threadplug-button{background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    height: 200px;
+    width: 300px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.15s;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    parfait-button{  background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    height: 200px;
+    width: 300px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.15s;
+}
+    abula-button{ background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    height: 200px;
+    width: 300px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 6px;
+    transition: 0.15s;
+}
+    css{ height: 250px;
+    
+}
+    html{ height: 240px;
+
+}
+    java{height: 250px;
+       
+}
+    services{ margin:15px 0;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+respond-button{background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.15s;
+    margin-right: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+content-button{ background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.15s;
+    margin-top: 100px;
+    margin-left:40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+dev-button{background-color:rgb(0, 0, 0) ;
+    color: #ccc;
+    border: none;
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+email{ border-radius: 50px;
+    width:700px;
+}
+name{ border-radius: 50px;
+    width: 700px;
+}
+message{ border-radius: 50px;
+    width: 700px;
+}
+    send-button{background-color:#0d0128  ;
+    border-radius:100px;
+    padding: 10px wv;
+    width: 200px;
+    margin-left:350px;
+}
+facebook{height: 50px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+insta{height: 50px;
+    border-radius: 10px;
+    margin-right: 15px;
+     }
+linkedin{height: 50px;
+    border-radius: 10px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0 5px;
+}
+form input, form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+social icon img{
+    width:35px;
+    height:35px;
+    transition:transform 0.3s;
+}
+    footer{
+        background:#333;
+        color:#fff;
+        padding: 20px;
+        text-align: centre;   
+  }
+
+    
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    
+    
+
+
+    
